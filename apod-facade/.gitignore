@@ -44,7 +44,3 @@
 # build
 
 **/build/
-
-# vs and vscode
-**.vs/
-**.vscode/
